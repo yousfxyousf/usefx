@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 const SERVERS = [
   {
     guildId: '1466816993108824120',
-    channelId: '1469009816369234051',
+    channelId: '1469110018673479872',
     name: 'Server 1'
   },
   {
