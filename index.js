@@ -11,8 +11,8 @@ const PORT = process.env.PORT || 3000;
 // SERVER 1: Join TWO voice channels
 const SERVERS = [
   {
-    guildId: '1466816993108824120',
-    channelId: '1469110018673479872',
+    guildId: '1468028186796491006',
+    channelId: '1468046908860928224',
     name: 'Server 1'
   },
   {
