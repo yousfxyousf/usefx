@@ -16,8 +16,8 @@ const SERVERS = [
     name: 'Server 1'
   },
   {
-    guildId: '1468028186796491006', 
-    channelId: '1468046908860928224',
+    guildId: '1310375311954677840', 
+    channelId: '1469463552333975746',
     name: 'Server 2'
   }
 ];
